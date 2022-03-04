@@ -39,7 +39,7 @@ To answer to question **"Does the frequency of crimes change over the day? Week?
 
 The answer to question **"What types of crimes are most common?"** is positive and is easily readable from the distribution of the crimes (the graph illustrating 5 of the most commonly committed crimes). In this graph one can see that the most committed crimes are: Motor Vehicle Accident Response, Larceny, Medical Assistance Group and Investigate Person.
 
-The answer of **"In which area most crimes are committed?"** may be embraced by the distribution of the crimes committed in districs. It is clear to see that there are districts with the highest crime rates (the highest number of crimes) i.e. B2, C11 and D4. In other words the most crime is committed in the city center. The same thing is easy readable from the longitude and latitude graphs divided by particular districts. 
+The answer of **"In which area most crimes are committed?"** may be embraced by the distribution of the crimes committed in **districs**. It is clear to see that there are districts with the highest crime rates (the highest number of crimes) i.e. **B2, C11 and D4**. In other words the most crime is committed in the **city center**. The same thing is easy readable from the **longitude and latitude graphs** divided by particular districts. 
 
 
 
