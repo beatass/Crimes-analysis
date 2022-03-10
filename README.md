@@ -41,6 +41,8 @@ The answer to question **"What types of crimes are most common?"** is positive a
 
 The answer of **"In which area most crimes are committed?"** may be embraced by the distribution of the crimes committed in **districs**. It is clear to see that there are districts with the highest crime rates (the highest number of crimes) i.e. **B2, C11 and D4**. In other words the most crime is committed in the **city center**. The same thing is easy readable from the **longitude and latitude graphs** divided by particular districts. 
 
+And finnaly there is difficult to answer the question **Which areas of the city have evolved over this time span?** since data were uncompleted i.e. there are missing ones for the first 5 months in 2015 and for the last three months in 2018. 
+
 The **crimes_KMeans.ipynb file** contains 
 
 
