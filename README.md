@@ -24,7 +24,7 @@ The project is created with Python libraries:
 
 ## Recap
 
-The **crimes_EDA.ipynb file** contains some exploratory data (**EDA**) analysis to understand the nature of data about crimes and the underlying distribution in particular to resolve the goals/problems assumed and to answer to all of questions mentioned in the Crimes Analysis section.
+The **crimes_EDA.ipynb file** contains some exploratory data analysis (**EDA**) to understand the nature of data about crimes and the underlying distribution in particular to resolve the goals/problems assumed and to answer to all of questions mentioned in the Crimes Analysis section.
 
 It was performed in two steps:
 
