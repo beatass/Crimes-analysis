@@ -1,6 +1,6 @@
 # Crimes analysis
 
-The analysis is intented to give the answer about Boston (USA) crime data using **unsupervised machine learning and k-means clustering.The EDA analysis is mostly aimed to answer in a few questions:**
+The analysis is intented to give the answer about Boston (USA) crime data using **unsupervised machine learning and k-means clustering**.The **EDA** analysis is mostly aimed **to answer in a few questions:**
 
 - Is it possible to predict where or when a crime will be committed?
 - How has crime changed over the years?
