@@ -1,6 +1,6 @@
 # Crimes analysis
 
-The analysis is intented to give the answer about Boston (USA) crime data using **unsupervised machine learning and k-means clustering**.The **EDA** analysis is mostly aimed **to answer in a few questions:**
+The analysis is intented to give the answer about Boston (USA) crime data.The **EDA** analysis is mostly aimed **to answer in a few questions:**
 
 - Is it possible to predict where or when a crime will be committed?
 - How has crime changed over the years?
@@ -12,14 +12,12 @@ and last but not least
 
 - Which areas of the city have evolved over this time span?
 
+The dataset comes from Kaggle.
+
 
 ## Motivation
 
-In this study the exploratory analysis (**EDA**) with visualizations of crimes data of Boston (USA) as well as **unsupervised machine learning and k-means clustering** have been performed to make a relevant predictions and to answer to all of above questions.
-
-The project is created with Python libraries:
-
-- scikit-learn/pandas/numpy.
+In this study the exploratory analysis (**EDA**) with visualizations of crimes data of Boston (USA) to answer to all of above questions.
 
 
 ## Recap
@@ -43,43 +41,22 @@ The answer of **"In which area most crimes are committed?"** may be embraced by 
 
 And finnaly there is difficult to answer the question **Which areas of the city have evolved over this time span?** since data were uncompleted i.e. there are missing ones for the first 5 months in 2015 and for the last three months in 2018. 
 
-The **crimes_KMeans.ipynb file** contains 
+
+### Technologies
+
+The project is created with Python libraries:
+
+- scikit-learn/pandas/numpy/matplotlib.
 
 
-tba
-
-
-
-
-### Running the project:
+#### Running the project:
 
 - To run this project use Jupyter Notebook or Google Colab.
+
 
 ## Files in this repository
 
 1. The crimes_EDA.ipynb file contains all the codes, plots and relevant descriptions of conducted analysis.
-2. The crimes_KMeans.ipynb file contains all the codes, plots and relevant descriptions of conducted analysis.
 
 
-## Relevant information
-
-The dataset consists of the following input variables:
-
-
-- **Offense Code** - it is a given code of an incident;
-- **Offense Code Group** - it is a code for offence's group;
-- **Offense Description** - it is a description of the committed crime;
-- **District** - it is a place where the crime was committed;
-- **Incident Number** - it is a given number of crime ;
-- **Reporting Area** - area where the crime was committed;
-- **Shooting** - is a type of incident;
-- **Occured On Date** - it is a date when the crime was committed;
-- **Year** - it is a year when the crime was committed;
-- **Month** - it is a month when the crime was committed;
-- **Day Of Week** - it is a day when the crime was committed;
-- **Hour** - it is an hour when the crime was committed;
-- **UCR Part**;
-- **Street** - it is a name of street where the crime was committed;
-- **Lat** - it is the latitude of the place where the crime was committed;
-- **Long** - it is the longitude of the place where the crime was committed.
 
