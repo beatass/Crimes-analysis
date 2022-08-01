@@ -1,6 +1,6 @@
 # Crimes analysis
 
-The analysis is intented to give the answer about Boston (USA) crime data.The **EDA** analysis is mostly aimed **to answer in a few questions:**
+The analysis is intented to give the answer about Boston (USA) crime data.  The **EDA** analysis is mostly aimed **to answer in a few questions:**
 
 - Is it possible to predict where or when a crime will be committed?
 - How has crime changed over the years?
@@ -8,7 +8,7 @@ The analysis is intented to give the answer about Boston (USA) crime data.The **
 - What types of crimes are most common?
 - In which area most crimes are committed? 
 
-and last but not least
+**and last but not least**
 
 - Which areas of the city have evolved over this time span?
 
