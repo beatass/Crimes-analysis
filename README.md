@@ -1,6 +1,6 @@
 # Crimes analysis
 
-The analysis is intented to give the answer about Boston (USA) crime data.  The **EDA** analysis is mostly aimed **to answer in a few questions:**
+The analysis is intented to give the answer about Boston (USA) crime data.  The **EDA** analysis is mostly aimed **to answer in a few important questions** that come to mind:
 
 - Is it possible to predict where or when a crime will be committed?
 - How has crime changed over the years?
@@ -17,7 +17,7 @@ The dataset comes from Kaggle.
 
 ## Motivation
 
-In this study the exploratory analysis (**EDA**) with visualizations of crimes data of Boston (USA) to answer to all of above questions.
+In this study the exploratory analysis (**EDA**) with visualizations of crimes data of Boston (USA) is used to answer to all of above questions.
 
 
 ## Recap
@@ -29,7 +29,7 @@ The **crimes_EDA.ipynb file** contains some exploratory data analysis (**EDA**) 
     I. Viewing the data state wise from different angles - EDA analysis and data visualization;
     II. Presenting findings and drawing conclusions.
     
-After examination if our dataset has any missing values and checking the features within it and their data types, the EDA analysis has been performed. In this study EDA analysis is a cue to help us to answer to all of above questions. So let's back to them. The answer to question **"Is it possible to predict where or when a crime will be committed?"** is positive. First of all let's see that the most crime is committed in the city center (i.e.**where**) and what is more Friday, Saturday night and weekday lunch and departure times are the most prone to crime (i.e. **when**).
+After examination if the dataset has any missing values and checking the features within it and their data types, the EDA analysis has been performed. In this study EDA analysis is a clue to help me to answer to all of above questions. So let's back to them. The answer to question **"Is it possible to predict where or when a crime will be committed?"** is positive. First of all let's see that the most crime is committed in the city center (i.e.**where**) and what is more Friday, Saturday night and weekday lunch and departure times are the most prone to crime (i.e. **when**).
 
 In turn the question **"How has crime changed over the years?"** is correlated with the answer to the next question (see note that the lowest crime rate was in 2015, the year 2017 was the year with the highest crime rate while the crime rate was decreased in 2018).
 
@@ -37,7 +37,7 @@ To answer to question **"Does the frequency of crimes change over the day? Week?
 
 The answer to question **"What types of crimes are most common?"** is positive and is easily readable from the distribution of the crimes (the graph illustrating 5 of the most commonly committed crimes). In this graph one can see that the most committed crimes are: **Motor Vehicle Accident Response, Larceny, Medical Assistance Group and Investigate Person**.
 
-The answer of **"In which area most crimes are committed?"** may be embraced by the distribution of the crimes committed in **districs**. It is clear to see that there are districts with the highest crime rates (the highest number of crimes) i.e. **B2, C11 and D4**. In other words the most crime is committed in the **city center**. The same thing is easy readable from the **longitude and latitude graphs** divided by particular districts. 
+The answer of **"In which area most crimes are committed?"** may be embraced by the distribution of the crimes committed in **districs**. It is clear to see that there are districts with the highest crime rates (the highest number of crimes) i.e. **B2, C11 and D4**. In other words the most crimes are committed in the **city center**. The same thing is easy readable from the **longitude and latitude graphs** divided by particular districts. 
 
 And finnaly there is difficult to answer the question **Which areas of the city have evolved over this time span?** since data were uncompleted i.e. there are missing ones for the first 5 months in 2015 and for the last three months in 2018. 
 
