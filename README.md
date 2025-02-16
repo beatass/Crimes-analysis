@@ -3,7 +3,7 @@
 The analysis is intented to give the answer about Boston (USA) crime data.  The **EDA** analysis is mostly aimed **to answer in a few important questions** that come to mind:
 
 - Is it possible to predict where or when a crime will be committed?
-- How has crime changed over the years?
+- How have crimes changed over the years?
 - Does the frequency of crimes change over the day? Week? Year?
 - What types of crimes are most common?
 - In which area most crimes are committed? 
@@ -17,12 +17,12 @@ The dataset comes from Kaggle.
 
 ## Motivation
 
-In this study the exploratory analysis (**EDA**) with visualizations of crimes data of Boston (USA) is used to answer to all of above questions.
+In this study the exploratory data analysis (**EDA**) with visualizations of crimes data of Boston (USA) is used to answer to all of above questions.
 
 
 ## Recap
 
-The **crimes_EDA.ipynb file** contains some exploratory data analysis (**EDA**) to understand the nature of data about crimes and the underlying distribution in particular to resolve the goals/problems assumed and to answer to all of questions mentioned in the Crimes Analysis section.
+The **crimes_EDA.ipynb file** contains some **EDA** to understand the nature of data about crimes and the underlying distribution in particular to resolve the goals/problems assumed and to answer to all of questions mentioned in the Crimes Analysis section.
 
 **It was performed in two steps:**
 
@@ -31,7 +31,7 @@ The **crimes_EDA.ipynb file** contains some exploratory data analysis (**EDA**) 
     
 After examination if the dataset has any missing values and checking the features within it and their data types, the EDA analysis has been performed. In this study EDA analysis is a clue to help me to answer to all of above questions. So let's back to them. The answer to question **"Is it possible to predict where or when a crime will be committed?"** is positive. First of all let's see that the most crime is committed in the city center (i.e.**where**) and what is more Friday, Saturday night and weekday lunch and departure times are the most prone to crime (i.e. **when**).
 
-In turn the question **"How has crime changed over the years?"** is correlated with the answer to the next question (see note that the lowest crime rate was in 2015, the year 2017 was the year with the highest crime rate while the crime rate was decreased in 2018).
+In turn the question **"How have crimes changed over the years?"** is correlated with the answer to the next question (see note that the lowest crime rate was in 2015, the year 2017 was the year with the highest crime rate while the crime rate was decreased in 2018).
 
 To answer to question **"Does the frequency of crimes change over the day? Week? Year?"** it is enough to note that the highest crime rate is seen on Friday (i.e. **day**). It seems that the crime was triggered by the fact that many people were out on Friday night due to Saturday being a holiday. Other days there is no significant difference, but Sunday has the lowest rate. The months with the highest crime rates vary according to years, an increase can be was observed in the summer months. The year 2017 was the year with the highest crime rate while the crime rate was decreasing in 2018 (i.e. **year**). It is worth to noting that this fact maybe correlated with missing data for the first 5 months in 2015 and for the last three months in 2018.
 
