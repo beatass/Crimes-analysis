@@ -1,6 +1,6 @@
 # Crimes analysis
 
-The analysis is intented to give the answer about Boston (USA) crime data.  The exploratory data analysis (**EDA**) analysis is mostly aimed **to answer in a few important questions** that come to mind:
+The analysis is intented to give the answer about Boston (USA) crime data.  The exploratory data analysis (**EDA**) is mostly aimed **to answer in a few important questions** that come to mind:
 
 - Is it possible to predict where or when a crime will be committed?
 - How have crimes changed over the years?
