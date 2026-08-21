@@ -44,19 +44,19 @@ And finnaly there is difficult to answer the question **Which areas of the city 
 
 ### Technologies
 
-The project is created with Python libraries:
+The project was created with Python libraries:
 
 - scikit-learn/pandas/numpy/matplotlib.
 
 
 #### Running the project:
 
-- To run this project use Jupyter Notebook or Google Colab.
+- To run this project one may use Jupyter Notebook or Google Colab.
 
 
 #### Files in this repository
 
-1. The crimes_EDA.ipynb file contains all the codes, plots and relevant descriptions of conducted analysis.
+1. The **crimes_EDA.ipynb** file contains all the codes, plots and relevant descriptions of conducted analysis.
 
 
 
