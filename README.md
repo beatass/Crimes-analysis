@@ -51,7 +51,7 @@ The project was created with Python libraries:
 
 #### Running the project:
 
-- To run this project one may use Jupyter Notebook or Google Colab.
+- To run this project one can use Jupyter Notebook or Google Colab.
 
 
 #### Files in this repository
