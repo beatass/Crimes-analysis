@@ -1,6 +1,6 @@
 # Crimes analysis
 
-The analysis is intented to give the answer about crimes data commited in Boston (USA) between 2015 and 2018.  The exploratory data analysis (**EDA**) is mostly aimed **to answer a few important questions** that come to mind:
+The analysis is intented to give the answer the question about crimes data commited in Boston (USA) between 2015 and 2018.  The exploratory data analysis (**EDA**) is mostly aimed **to answer a few important questions** that come to mind:
 
 - Is it possible to predict where or when a crime will be committed?
 - How have crimes changed over the years?
@@ -17,12 +17,12 @@ The dataset comes from Kaggle.
 
 ## Motivation
 
-In this study the exploratory data analysis (**EDA**) with visualizations of crimes data of Boston (USA) is used to answer to all of above questions.
+In the study the exploratory data analysis (**EDA**) with visualizations of crimes data of Boston (USA) is used to answer to all of above questions.
 
 
 ## Recap
 
-The **crimes_EDA.ipynb file** contains some **EDA** to understand the nature of data about crimes and the underlying distribution in particular to resolve the goals/problems assumed and to answer to all of questions mentioned in the Crimes Analysis section.
+The **crimes_EDA.ipynb file** contains some **EDA** to understand the nature of data about crimes and the underlying distribution in particular to resolve the goals/problems assumed and to answer to all of questions mentioned in the **Crimes Analysis section**.
 
 **It was performed in two steps:**
 
