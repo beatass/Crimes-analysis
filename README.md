@@ -12,7 +12,7 @@ The analysis is intented to give the answer the question about **crimes data com
 
 - Which areas of the city have evolved over this time span?
 
-The dataset comes from Kaggle.
+**The dataset comes from Kaggle.**
 
 
 ## Motivation
