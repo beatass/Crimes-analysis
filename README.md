@@ -1,6 +1,6 @@
 # Crimes analysis
 
-The analysis is intented to give the answer the question about **crimes data commited in Boston (USA) between 2015 and 2018**.  The **exploratory data analysis (EDA)** is mostly aimed **to answer a few important questions** that come to mind:
+The analysis is intented to give the answer the question about **crimes data commited in Boston (USA) between 2015 and 2018.  The exploratory data analysis (EDA)** is mostly aimed to answer a **few important questions** that come to mind:
 
 - Is it possible to predict where or when a crime will be committed?
 - How have crimes changed over the years?
@@ -17,7 +17,7 @@ The analysis is intented to give the answer the question about **crimes data com
 
 ## Motivation
 
-In the study the exploratory data analysis **(EDA)** with visualizations of crimes data of Boston (USA) is used to answer to all of above questions.
+In this study exploratory data analysis **(EDA)** with visualizations of crimes data of Boston (USA) is used to answer to all of above questions.
 
 
 ## Recap
