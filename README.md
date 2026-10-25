@@ -17,7 +17,7 @@ The analysis is intented to give the answer about the question of **crimes data 
 
 ## Motivation
 
-In this study exploratory data analysis **(EDA)** with visualizations of crimes data of Boston (USA) is used to answer to all of above questions.
+In this study exploratory data analysis **(EDA)** with visualizations of crimes data of Boston in USA is used to answer to all of above questions.
 
 
 ## Recap
